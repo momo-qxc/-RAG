@@ -1,4 +1,4 @@
-# AI Vector Database & RAG System：从零构建企业级智能知识库
+# AI Vector Database & RAG System：从零构建智能知识库
 
 ![效果演示](./result/效果.png)
 
